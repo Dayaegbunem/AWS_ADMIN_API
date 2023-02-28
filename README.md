@@ -26,3 +26,4 @@ How to use
 ==================
 Open postman, create a new request with Get method and api endpoint url generated in step4.
 Pass the body as json, add token in header and hit send button
+![newuser-created](https://user-images.githubusercontent.com/126528702/221946239-5bf06b5c-5720-407a-b5d4-b58ffbb61380.PNG)
